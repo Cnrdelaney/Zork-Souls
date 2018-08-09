@@ -16,4 +16,4 @@ To switch to windows, all instances of:
 
 
 
-Shoutout to petergibb96 for working on this with me and Preston Epps for the Blackjack section
+Co-developers include petergibb96 and Preston Epps for the Blackjack section
